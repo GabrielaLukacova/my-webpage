@@ -1,0 +1,14 @@
+    ul{
+        list-style-type: none;
+        background-color: rgb(208, 156, 170);
+        margin:0;
+        padding:0;
+        li{
+            float:inline-start;
+            a{
+                text-decoration: none;
+                color: azure;
+                display:flex;
+            }
+        }
+    }
